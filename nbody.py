@@ -7,7 +7,7 @@
 # modified by Maciej Fijalkowski
 # 2to3
 # modified by Andriy Misyura
-# slightly modified by bmmeijers 0
+# slightly modified by bmmeijers
 
 import sys
 from math import sqrt, pi as PI
